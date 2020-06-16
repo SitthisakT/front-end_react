@@ -1,0 +1,33 @@
+.app{
+    color: aliceblue;
+    font-family: 'Varela Round', sans-serif;
+    width: 1000px;
+}
+
+.contentCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentTopic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
+
+.contentResult {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+input.form-control {
+  height: 50px;
+}
+
+button.btn {
+  height: 50px;
+}
